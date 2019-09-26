@@ -1,4 +1,4 @@
-package com.travelsky.pss.react_bus_api;
+package demo.async;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

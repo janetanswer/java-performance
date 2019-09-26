@@ -10,7 +10,8 @@ public class ScheduledExecutorServiceExample {
 
 	
 	/**
-	 * 创建一个可延迟执行或定期执行的线程池,参数为corePoolSize
+	 * 创建固定长度的线程池，而且以延迟或者定时的方式来执行任务
+	 * 参数为corePoolSize
 	 * 
 	 * 
 	 */

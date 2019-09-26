@@ -23,7 +23,7 @@ public class FutureTaskExample2 {
                     }
                 });
         executor.execute(future);
-        
+
         return future.get();
 	}
 	
